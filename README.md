@@ -1,5 +1,6 @@
 # CreativeCoding_oF_F15_RYAN_HALL
-![imageofme](../aboutimg.jpg)
+
+![image](./aboutimg.jpg)
 <br>
 make your own picture emoji @ <http://ericandrewlewis.github.io/emoji-mosaic/>
 
