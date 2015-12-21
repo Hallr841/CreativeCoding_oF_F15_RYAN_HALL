@@ -1,0 +1,13 @@
+ofxThreadedImageLoader
+ofxAssimpModelLoader
+ofxBlur
+ofxBox2d
+ofxCv
+ofxGui
+ofxKinect
+ofxNetwork
+ofxOpenCv
+ofxOsc
+ofxSvg
+ofxVectorGraphics
+ofxXmlSettings
